@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to cards related local APIs (THIS IS THE PRODUCTION SPRING PROFILE)"
+  contactDetails:
+    name: "Filip Mishkov - Developer"
+    email: "foewig@gmail.com"
+  onCallSupport:
+    - (777) 555-1234
+    - (777) 523-1345
