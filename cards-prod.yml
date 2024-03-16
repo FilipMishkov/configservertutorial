@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to cards related local APIs (THIS IS THE PRODUCTION SPRING PROFILE)"
+  message: "Welcome to cards related local APIs (THIS IS THE PRODUCTION SPRING PROFILE!!!ACTUATOR UPDATE!!!)"
   contactDetails:
     name: "Filip Mishkov - Developer"
     email: "foewig@gmail.com"
