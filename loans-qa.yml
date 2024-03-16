@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to loans related local APIs (THIS IS THE QA SPRING PROFILE)"
+  message: "Welcome to loans related local APIs (THIS IS THE QA SPRING PROFILE!!!)"
   contactDetails:
     name: "Filip Mishkov - Developer"
     email: "foewig@gmail.com"
